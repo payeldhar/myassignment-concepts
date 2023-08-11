@@ -1,0 +1,50 @@
+[
+    {
+      "id": "64d08bdc2d4b3c7c1f17198a",
+      "name": "Richmond Bolton",
+      "about": "Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img1.jpg",
+      "age": 21,
+      "time": 14
+    },
+    {
+      "id": "64d08bdc2486c5dbfd64321a",
+      "name": "Gould Coleman",
+      "about": "Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img2.jpg",
+      "age": 23,
+      "time": 11
+    },
+    {
+      "id": "64d08bdcf38c0cf355e2af2b",
+      "name": "Erin Prince",
+      "about": "Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img3.jpg",
+      "age": 22,
+      "time": 19
+    },
+    {
+      "id": "64d08bdcb9c6059f9eef1839",
+      "name": "Hilda Randall",
+      "about":"Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img1.jpg",
+      "age": 23,
+      "time": 17
+    },
+    {
+      "id": "64d08bdc77dc218ca7f02e93",
+      "name": "Flora Kirk",
+      "about": "Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img3.jpg",
+      "age": 20,
+      "time": 15
+    },
+    {
+      "id": "64d08bdc0ff1ef3aca3b28d6",
+      "name": "Reeves Barker",
+      "about": "Amet anim deserunt eiusmod sunt aliqua labore exercitation",
+      "image": "./images/img3.jpg",
+      "age": 21,
+      "time": 16
+    }
+  ]
